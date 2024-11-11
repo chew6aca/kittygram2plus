@@ -41,3 +41,12 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+## Стек технологий
++ Python 3.9
++ Django 3.2
++ Django REST framework 3.12.4
+
+
+Автор: Александр Чупахин
+
+Email: [fisherr1@yandex.ru](mailto:fisherr1@yandex.ru)
